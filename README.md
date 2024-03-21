@@ -1,4 +1,4 @@
-# Gra RPG w JavaScript - Dragon Repeller
+# Gra RPG w JavaScript - Dragon Repeller - freeCodeCamp
 
 ## Opis
 Projekt "Dragon Repeller" to prosta gra RPG napisana w języku JavaScript. Gracz ma za zadanie pokonać smoka, który powstrzymuje ludzi przed opuszczeniem miasta. Gra skupia się na podstawowych koncepcjach programowania w JavaScript, takich jak działania na tablicach, ciągach znaków, obiektach, funkcjach, pętlach oraz instrukcjach warunkowych if/else.
@@ -19,4 +19,4 @@ Aby uruchomić grę:
 Projekt został stworzony przez Remigiusz Nowakowski.
 
 ## Live Demo
-Możesz wypróbować działającą wersję projektu [tutaj](link_do_live_demo).
+Możesz wypróbować działającą wersję projektu [tutaj](https://remigiuszgithub.github.io/RPG-/)https://remigiuszgithub.github.io/RPG-/.
