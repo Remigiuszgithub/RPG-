@@ -19,4 +19,4 @@ Aby uruchomić grę:
 Projekt został stworzony przez Remigiusz Nowakowski.
 
 ## Live Demo
-Możesz wypróbować działającą wersję projektu (https://remigiuszgithub.github.io/RPG-/)https://remigiuszgithub.github.io/RPG-/.
+Możesz wypróbować działającą wersję projektu https://remigiuszgithub.github.io/RPG-/)https://remigiuszgithub.github.io/RPG-/
